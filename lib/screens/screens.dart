@@ -1,4 +1,8 @@
-export 'package:products_app/screens/homeScreen_screen.dart';
-export 'package:products_app/screens/loginScreen_screen.dart';
-export 'package:products_app/screens/productScreen_screen.dart';
-export 'package:products_app/screens/loadingScreen_screen.dart';
+
+export 'package:productos_app/screens/home_screen.dart';
+export 'package:productos_app/screens/loading_screen.dart';
+export 'package:productos_app/screens/login_screen.dart';
+export 'package:productos_app/screens/product_screen.dart';
+
+
+
